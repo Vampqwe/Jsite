@@ -1,0 +1,202 @@
+<codestructure version="5.14">
+<phptree>
+<treenode node="../core/classes/autoLoadClass.php;PHP:PHP Include;E:\OSPanel\domains\site\file\file.php;f14;2;47;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../core/config.php;PHP:PHP Include;E:\OSPanel\domains\site\file\file.php;f14;1;32;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../;PHP:PHP Include;E:\OSPanel\domains\site\core\ums\usermanagementsystem.php;f15;2;18;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../config.php;PHP:PHP Include;E:\OSPanel\domains\site\core\ums\usermanagementsystem.php;f15;1;28;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../;PHP:PHP Include;E:\OSPanel\domains\site\core\ums\authums.php;f15;2;18;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../config.php;PHP:PHP Include;E:\OSPanel\domains\site\core\ums\authums.php;f15;1;28;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../;PHP:PHP Include;E:\OSPanel\domains\site\core\ums\ums.php;f15;2;18;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="../config.php;PHP:PHP Include;E:\OSPanel\domains\site\core\ums\ums.php;f15;1;28;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ACCES_ADMIN;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;47;19;47;;;;vpos;;v;;r5;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ACCES_NEW_USER;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;46;22;46;;;;vpos;;v;;r1;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="CLASSES;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;27;15;27;;;;vpos;;v;;r&apos;classes&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="CORE;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;28;12;28;;;;vpos;;v;;r&apos;core&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="core/config.php;PHP:PHP Include;E:\OSPanel\domains\site\index.php;f15;1;30;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="CORE_CLASS;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;26;18;26;;;;vpos;;v;;r&#10;Description&#10;     Пути к корневым папкам;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DB_CHARSET;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;16;18;16;;;;vpos;;v;;r&apos;utf8&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DB_DSN;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;17;14;17;;;;vpos;;v;;r&quot;mysql:host=&quot;.DB_HOST.&quot;;sdbname=&quot;.DB_NAME.&quot;;scharset=&quot;.DB_CHARSET.&quot;&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DB_HOST;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;12;15;12;;;;vpos;;v;;r&#10;Description&#10;     Конфиги;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DB_LOGIN;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;13;16;13;;;;vpos;;v;;r&apos;Vampqwe&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DB_NAME;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;15;15;15;;;;vpos;;v;;r&apos;mysite&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DB_PASSWORD;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;14;19;14;;;;vpos;;v;;r&apos;Hdva4r81&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAX_SIZE_LOGIN;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;34;22;34;;;;vpos;;v;;r25;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MAX_SIZE_PASS;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;39;21;39;;;;vpos;;v;;r30;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MIN_SIZE_LOGIN;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;32;22;32;;;;vpos;;v;;r6;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MIN_SIZE_PASS;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;37;21;37;;;;vpos;;v;;r6;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PATTERN_LOGIN;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;42;21;42;;;;vpos;;v;;r[&quot; &quot;, &quot;&lt;&quot;, &quot;&gt;&quot;, &quot;?&quot;, &quot;{&quot;, &quot;}&quot;, &quot;[&quot;,&quot;]&quot;, &quot;!&quot;, &quot;@&quot;, &quot;#&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PATTERN_PASS;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;43;20;43;;;;vpos;;v;;r[&quot; &quot;, &quot;&lt;&quot;, &quot;&gt;&quot;, &quot;?&quot;, &quot;{&quot;, &quot;}&quot;, &quot;[&quot;,&quot;]&quot;, &quot;!&quot;, &quot;@&quot;, &quot;#&quot;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="STYLE;PHP:PHP Word;E:\OSPanel\domains\site\core\config.php;f8;29;13;29;;;;vpos;;v;;r&apos;style&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="JDb;PHP:Class Name;E:\OSPanel\domains\site\core\classes\JDb.class.php;f1;12;2;47;;;;vpos;;v;;r&#10;Definition&#10;    class JDb&#10;&#10;Description&#10;     class Db;;d11,12;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JDb.class.php;f9;16;3;18;;;;vpos;;v;;r;;d33,16;;b1,0;;m">
+</treenode>
+<treenode node="dbConnect;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JDb.class.php;f10;20;3;27;;;;vpos;;v;;r;;d32,20;;b3,0;;m">
+</treenode>
+<treenode node="dbExec;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JDb.class.php;f9;29;3;34;;;;vpos;;v;;r;;d32,29;;b1,0;;msql;;p">
+</treenode>
+<treenode node="dbQuery;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JDb.class.php;f9;36;3;46;;;;vpos;;v;;r;;d33,36;;b1,0;;msql;;p">
+</treenode>
+</treenode>
+<treenode node="JErrorManagementSystem;PHP:Class Name;E:\OSPanel\domains\site\core\classes\JErrorManagementSystem.class.php;f1;1;2;88;;;;vpos;;v;;r;;d30,1;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JErrorManagementSystem.class.php;f9;7;3;9;;;;vpos;;v;;r;;d33,7;;b1,0;;m">
+</treenode>
+<treenode node="dmp;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JErrorManagementSystem.class.php;f9;77;3;83;;;;vpos;;v;;r;;d34,77;;b1,0;;mdmp;;p">
+</treenode>
+<treenode node="getErrorMsg;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JErrorManagementSystem.class.php;f9;35;3;75;;;;vpos;;v;;r;;d33,35;;b1,0;;m">
+</treenode>
+<treenode node="getNumberError;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JErrorManagementSystem.class.php;f9;17;3;20;;;;vpos;;v;;r;;d36,17;;b1,0;;m">
+</treenode>
+<treenode node="lackyMsg;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JErrorManagementSystem.class.php;f9;22;3;25;;;;vpos;;v;;r;;d34,22;;b1,0;;mmsg;;p">
+</treenode>
+<treenode node="setNumberError;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JErrorManagementSystem.class.php;f9;11;3;15;;;;vpos;;v;;r;;d60,11;;b1,0;;mnumError;;pparam;;p">
+</treenode>
+<treenode node="systemMSG;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JErrorManagementSystem.class.php;f16;27;3;32;;;;vpos;;v;;r;;d73,27;;b1,5;;mmsg;;pfile;;pclass;;pmethod;;pline;;p">
+</treenode>
+</treenode>
+<treenode node="JFileManagementSystem;PHP:Class Name;E:\OSPanel\domains\site\core\classes\JFileMenegementSystem.php;f1;2;2;44;;E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php;f1;2;2;114;;;;vpos;;v;;r;;d29,2;;b0,0;;m">
+<treenode node="createDir;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JFileMenegementSystem.php;f9;16;3;24;;E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php;f9;27;3;35;;;;vpos;;v;;r;;d62,27;;b1,0;;mmode;;precursive;;p">
+</treenode>
+<treenode node="existFile;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JFileMenegementSystem.php;f10;26;3;32;;;;vpos;;v;;r;;d31,18;;b1,0;;m">
+</treenode>
+<treenode node="existPathFile;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php;f9;18;3;26;;;;vpos;;v;;r;;d35,18;;b1,0;;m">
+</treenode>
+<treenode node="getContentDir;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php;f9;49;3;58;;;;vpos;;v;;r;;d35,49;;b1,0;;m">
+</treenode>
+<treenode node="getFoolPath;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JFileMenegementSystem.php;f9;12;3;14;;;;vpos;;v;;r;;d33,74;;b1,0;;m">
+</treenode>
+<treenode node="getInfoFile;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php;f9;41;3;43;;;;vpos;;v;;r;;d33,41;;b1,0;;m">
+</treenode>
+<treenode node="getMimeType;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php;f9;45;3;47;;;;vpos;;v;;r;;d33,45;;b1,0;;m">
+</treenode>
+<treenode node="getModifiedMimeType;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php;f9;60;3;105;;;;vpos;;v;;r;;d41,60;;b1,0;;m">
+</treenode>
+<treenode node="getPath;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php;f9;13;3;16;;;;vpos;;v;;r;;d29,13;;b1,0;;m">
+</treenode>
+<treenode node="getSizeFile;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php;f9;37;3;39;;;;vpos;;v;;r;;d33,37;;b1,0;;m">
+</treenode>
+<treenode node="openFile;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JFileMenegementSystem.php;f9;34;3;39;;E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php;f9;107;3;109;;;;vpos;;v;;r;;d35,107;;b1,0;;mmode;;p">
+</treenode>
+<treenode node="setPathNameFile;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JFileMenegementSystem.php;f9;8;3;11;;E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php;f9;8;3;11;;;;vpos;;v;;r;;d69,8;;b1,0;;mnameFile;;ppathToFile;;p">
+</treenode>
+<treenode node="writeToFile;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JFileMenegementSystem.php;f9;41;3;43;;E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php;f9;111;3;113;;;;vpos;;v;;r;;d37,111;;b1,0;;mstr;;p">
+</treenode>
+</treenode>
+<treenode node="JHelper;PHP:Class Name;E:\OSPanel\domains\site\core\classes\JHelper.class.php;f1;2;2;11;;;;vpos;;v;;r;;d15,2;;b0,0;;m">
+<treenode node="getDate;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JHelper.class.php;f16;4;3;6;;;;vpos;;v;;r;;d36,4;;b1,5;;m">
+</treenode>
+<treenode node="getTime;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JHelper.class.php;f16;8;3;10;;;;vpos;;v;;r;;d36,8;;b1,5;;m">
+</treenode>
+</treenode>
+<treenode node="JRoute;PHP:Class Name;E:\OSPanel\domains\site\core\classes\JRoute.class.php;f1;2;2;27;;;;vpos;;v;;r;;d14,2;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;E:\OSPanel\domains\site\core\classes\NewFile.php;f9;6;3;8;;E:\OSPanel\domains\site\core\classes\JRoute.class.php;f9;6;3;8;;;;vpos;;v;;r;;d33,6;;b1,0;;m">
+</treenode>
+<treenode node="getLinc;PHP:Function Name;E:\OSPanel\domains\site\core\classes\NewFile.php;f9;20;3;26;;E:\OSPanel\domains\site\core\classes\JRoute.class.php;f9;20;3;26;;;;vpos;;v;;r;;d34,20;;b1,0;;mname;;p">
+</treenode>
+<treenode node="getPathArr;PHP:Function Name;E:\OSPanel\domains\site\core\classes\NewFile.php;f9;16;3;18;;E:\OSPanel\domains\site\core\classes\JRoute.class.php;f9;16;3;18;;;;vpos;;v;;r;;d32,16;;b1,0;;m">
+</treenode>
+<treenode node="setPathLink;PHP:Function Name;E:\OSPanel\domains\site\core\classes\NewFile.php;f9;10;3;14;;E:\OSPanel\domains\site\core\classes\JRoute.class.php;f9;10;3;14;;;;vpos;;v;;r;;d44,10;;b1,0;;mpathArr;;p">
+</treenode>
+</treenode>
+<treenode node="JServer;PHP:Class Name;E:\OSPanel\domains\site\core\classes\JServer.class.php;f1;1;2;55;;;;vpos;;v;;r;;d15,1;;b0,0;;m">
+<treenode node="getGetArr;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JServer.class.php;f16;22;3;25;;;;vpos;;v;;r;;d47,22;;b1,5;;marr;;p">
+</treenode>
+<treenode node="getIpUser;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JServer.class.php;f16;37;3;39;;;;vpos;;v;;r;;d38,37;;b1,5;;m">
+</treenode>
+<treenode node="getMethod;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JServer.class.php;f16;12;3;15;;;;vpos;;v;;r;;d38,12;;b1,5;;m">
+</treenode>
+<treenode node="getPageScript;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JServer.class.php;f16;51;3;54;;;;vpos;;v;;r;;d42,51;;b1,5;;m">
+</treenode>
+<treenode node="getPostArr;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JServer.class.php;f16;17;3;20;;;;vpos;;v;;r;;d48,17;;b1,5;;marr;;p">
+</treenode>
+<treenode node="getQueryStr;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JServer.class.php;f16;46;3;49;;;;vpos;;v;;r;;d40,46;;b1,5;;m">
+</treenode>
+<treenode node="getSelfPage;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JServer.class.php;f16;41;3;44;;;;vpos;;v;;r;;d40,41;;b1,5;;m">
+</treenode>
+<treenode node="inputGet;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JServer.class.php;f16;32;3;35;;;;vpos;;v;;r;;d41,32;;b1,5;;mget;;p">
+</treenode>
+<treenode node="inputPost;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JServer.class.php;f16;27;3;30;;;;vpos;;v;;r;;d43,27;;b1,5;;mpost;;p">
+</treenode>
+</treenode>
+<treenode node="JUserManagementSystem;PHP:Class Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f1;20;2;213;;;;vpos;;v;;r&#10;Definition&#10;    class JUserManagementSystem&#10;&#10;Description&#10;     Класс управляет объектом Пользователь;;d29,20;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;32;3;36;;;;vpos;;v;;r;;d33,32;;b1,0;;m">
+</treenode>
+<treenode node="authUser;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;171;3;185;;;;vpos;;v;;r;;d30,171;;b1,0;;m">
+</treenode>
+<treenode node="createDirUser;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;206;3;212;;;;vpos;;v;;r;;d35,206;;b1,0;;m">
+</treenode>
+<treenode node="getAllUserRsltDb;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;135;3;139;;;;vpos;;v;;r;;d38,135;;b1,0;;m">
+</treenode>
+<treenode node="getHashUserPass;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;121;3;123;;;;vpos;;v;;r;;d37,121;;b1,0;;m">
+</treenode>
+<treenode node="getPregRepDt;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;38;3;40;;;;vpos;;v;;r;;d33,38;;b1,0;;m">
+</treenode>
+<treenode node="getSessAccesName;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;81;3;111;;;;vpos;;v;;r;;d38,81;;b1,0;;m">
+</treenode>
+<treenode node="getSession;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;61;3;63;;;;vpos;;v;;r;;d32,61;;b1,0;;m">
+</treenode>
+<treenode node="getSessionId;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;42;3;44;;;;vpos;;v;;r;;d34,42;;b1,0;;m">
+</treenode>
+<treenode node="getSessStatus;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;69;3;75;;;;vpos;;v;;r;;d35,69;;b1,0;;m">
+</treenode>
+<treenode node="getSessUserAcces;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;65;3;67;;;;vpos;;v;;r;;d38,65;;b1,0;;m">
+</treenode>
+<treenode node="getUser;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;146;3;151;;;;vpos;;v;;r;;d29,146;;b1,0;;m">
+</treenode>
+<treenode node="getUserDbAcces;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;141;3;145;;;;vpos;;v;;r;;d36,141;;b1,0;;m">
+</treenode>
+<treenode node="getUserDt;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;157;3;159;;;;vpos;;v;;r;;d31,157;;b1,0;;m">
+</treenode>
+<treenode node="passCompare;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;113;3;119;;;;vpos;;v;;r;;d33,113;;b1,0;;m">
+</treenode>
+<treenode node="regUser;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;187;3;205;;;;vpos;;v;;r;;d29,187;;b1,0;;m">
+</treenode>
+<treenode node="setSessionDt;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;55;3;59;;;;vpos;;v;;r;;d47,55;;b1,0;;msessArr;;p">
+</treenode>
+<treenode node="setUserDt;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;153;3;155;;;;vpos;;v;;r;;d46,153;;b1,0;;muserDtArr;;p">
+</treenode>
+<treenode node="startSession;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;47;3;53;;;;vpos;;v;;r;;d34,47;;b1,0;;m">
+</treenode>
+<treenode node="stopSession;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;77;3;79;;;;vpos;;v;;r;;d33,77;;b1,0;;m">
+</treenode>
+<treenode node="userExist;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;161;3;169;;;;vpos;;v;;r;;d31,161;;b1,0;;m">
+</treenode>
+<treenode node="verifyUserPass;PHP:Function Name;E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php;f9;125;3;133;;;;vpos;;v;;r;;d36,125;;b1,0;;m">
+</treenode>
+</treenode>
+<treenode node="autoCreateMultipleDir;PHP:Function Name;E:\OSPanel\domains\site\core\classes\NewFile.php;f9;28;3;46;;;;vpos;;v;;r;;d43,28;;b1,0;;m">
+</treenode>
+<treenode node="createDir;PHP:Function Name;E:\OSPanel\domains\site\core\classes\NewFile.php;f9;18;3;26;;;;vpos;;v;;r;;d62,18;;b1,0;;mmode;;precursive;;p">
+</treenode>
+<treenode node="existPathFile;PHP:Function Name;E:\OSPanel\domains\site\core\classes\NewFile.php;f9;12;3;16;;;;vpos;;v;;r;;d35,12;;b1,0;;m">
+</treenode>
+<treenode node="setPathNameFile;PHP:Function Name;E:\OSPanel\domains\site\core\classes\NewFile.php;f9;7;3;10;;;;vpos;;v;;r;;d60,7;;b1,0;;mpathDir;;pcount;;p">
+</treenode>
+</phptree>
+</codestructure>

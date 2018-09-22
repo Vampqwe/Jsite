@@ -1,0 +1,156 @@
+body {
+	border: 0px solid #000;
+	/*background-image:url(img/black-ornamic.png);*/
+	margin:0px;
+	}
+a {
+	color:#000;
+	text-decoration:none;
+}
+a:hover {
+	color:#999;
+}
+a:visited {
+	color:#333;
+}
+
+#mainLayot {
+	border: 1px solid #000;
+	margin:5px auto;
+	width: 1000px;
+	min-height: 1500px;
+	background-image:url(img/light-gray-ornamic.png);
+	border-radius:5px 5px 5px 5px;
+	}
+
+#menuHeader {
+	border:0px solid #000;
+	width:990px;
+	height:65px;
+	margin:5px 5px 5px 5px;
+	border-radius:10px 10px 0px 0px;
+	background-image:url(img/white-ringo.png);
+	}
+	.lincMain img{
+		position:absolute;
+		border:1px solid #000;
+		background-color: #CCC;
+		border-radius:10px 10px 10px 10px;
+		margin:5px 5px 5px 5px;
+	}
+#systemPanel {
+	border:0px solid #000;
+	width:990px;
+	height:200px;
+	background-image:url(img/gray-ornamic.png);
+	margin:0px 5px 5px 5px;
+}
+.ulMenuHeader {
+	position:absolute;
+	word-spacing:10px;
+	margin: 10px 0px 5px 25px;
+}
+.ulMenuHeader li {
+	display:inline;
+	font-size:18px;
+}
+.formSearch {
+	position:absolute;
+	margin:20px 5px 5px 500px;
+}
+
+#category {
+	border:0px solid #000;
+	width:990px;
+	height:30px;
+	margin:0px 5px 5px 5px;
+	border-radius:0px 0px 10px 10px;
+	background-image:url(img/white-ringo.png);
+}
+#authorization {
+	position:absolute;
+	border:1px solid #000;
+	width:250px;
+	height:190px;
+	margin:5px 5px 5px 735px;
+	background-image:url(img/white-ringo.png);
+	border-radius:5px 5px 5px 5px;
+}
+#authorization img {
+	position:absolute;
+	margin:5px 5px 5px 175px;
+	border:1px solid #000;
+	background-color: #CCC;
+	border-radius:10px 10px 10px 10px;
+}
+.formAuth {
+	position:absolute;
+	margin:0px 15px 15px 15px;
+}
+.ulLincReg {
+	position:absolute;
+	margin:150px 0px 15px 5px;
+	list-style-type:none;
+}
+
+.ulLincReg li {
+	display:inline;
+	word-spacing:10px;
+	
+}
+
+.tableUserPanel {
+	position: absolute;
+	border: 1px solid #000;
+	width: 300px;
+	margin:20px 5px 15px 680px;
+	border-radius:5px 5px 5px 5px;
+	background-image:url(img/white-ringo.png);
+	
+}
+
+#registration {
+	border: 0px solid #000;
+	width: 700px;
+	height: 190px;
+	margin: 5px 0px 5px 5px;
+	position: absolute;
+	border-radius:5px 5px 5px 5px;
+	background-image:url(img/white-ringo.png);
+	
+}
+
+#registration form {
+	border: 0px solid #000;
+	height: 180px;
+	position: absolute;
+	margin: 5px 5px 5px 210px;
+}
+#regImg {
+	border: 0px solid #000;
+	width: 200px;
+	height: 180px;
+	/*background-image:url(img/gray-ornamic.png);*/
+	margin: 5px 5px 5px 5px;
+	border-radius:5px 0px 0px 5px;
+	position: absolute;
+}
+
+
+#content {
+	border:0px solid #000;
+	width:990px;
+	min-height:300px;
+	margin:0px 5px 5px 5px;
+	border-radius:5px 5px 5px 5px;
+	background-image:url(img/white-ringo.png);
+}
+
+#footer {
+	border:0px solid #000;
+	width:990px;
+	min-height:75px;
+	margin:0px 5px 5px 5px;
+	border-radius:0px 0px 10px 10px;
+	background-image:url(img/gray-ornamic.png);
+}

@@ -1,0 +1,73 @@
+#layotAuthUms {
+	border: 1px solid #060606;
+	width: 500px;
+	height: auto;
+	margin: auto;
+}
+
+#registration {
+	border: 0px solid #060606;
+	width: 500px;
+	height: auto;
+}
+
+#authorization {
+	border: 0px solid #060606;
+	width: 500px;
+	height: auto;
+}
+
+H4 {
+	margin: 5px 0px 0px 10px;
+}
+
+#layotUms {
+	border: 1px solid #0d0000;
+	width: 1000px;
+	height: 700px;
+	margin: auto;
+	}
+#headerMenuUms {
+	
+	border: 1px solid #0d0000;
+	width: 990px;
+	height: 25px;	
+	margin: 5px 5px 0px 5px;
+}
+#headerUms {
+	position: absolute;
+	border: 1px solid #0d0000;
+	width: 740px;
+	height: 100px;
+	margin:5px 0px 0px 5px;	
+}
+
+#userPanelUms {
+	position: absolute;
+	border: 1px solid #0d0000;
+	width: 245px;
+	height: 150px;
+	margin:5px 0px 0px 750px;		
+}
+#miniPanelUms {
+	position: absolute;
+	border: 1px solid #0d0000;
+	width: 740px;
+	height: 45px;
+	margin:110px 5px 0px 5px;	
+}
+
+#leftBlockUms {
+	position: absolute;
+	border: 1px solid #0d0000;
+	width: 185px;
+	height: 500px;
+	margin:160px 5px 0px 5px;	
+}
+#contentUms {
+	position: absolute;
+	border: 1px solid #0d0000;
+	width: 800px;
+	height: 500px;
+	margin:160px 5px 0px 195px;	
+}

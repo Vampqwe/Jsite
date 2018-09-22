@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="E:\OSPanel\domains\site\site.clpprj">
+	<settings><PM_URL><![CDATA[E:/OSPanel/domains/site/]]></PM_URL><PM_HOME_URL><![CDATA[E:/OSPanel/domains/site/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php"/>
+		<file name="E:\OSPanel\domains\site\file\file.php"/>
+		<file name="E:\OSPanel\domains\site\core\classes\JErrorManagementSystem.class.php"/>
+	</lastopfiles>
+	<todoblock>
+		<todofile name="E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php">
+			<todo name="todo описание необходимых доработок" pos="4;15"/>
+		</todofile>
+		<todofile name="E:\OSPanel\domains\site\core\js\uncompressed jQuery 3.3.1.js">
+			<todo name="TODO: identify versions" pos="8;752"/>
+			<todo name="TODO: identify versions" pos="7;766"/>
+			<todo name="TODO: Now that all calls to _data and _removeData have been replaced" pos="2;4233"/>
+		</todofile>
+	</todoblock>
+	<filescache>
+		<file name="E:\OSPanel\domains\site\file\file.php" crc="1537551958"/>
+		<file name="E:\OSPanel\domains\site\core\ums\user\Vampqwe\myPage.php" crc="1537443571"/>
+		<file name="E:\OSPanel\domains\site\core\ums\user\Vampport\userConfig.txt" crc="1537434742"/>
+		<file name="E:\OSPanel\domains\site\core\ums\log\log.txt" crc="1537434119"/>
+		<file name="E:\OSPanel\domains\site\core\ums\usermanagementsystem.php" crc="1537443620"/>
+		<file name="E:\OSPanel\domains\site\core\ums\ums.css" crc="1537378456"/>
+		<file name="E:\OSPanel\domains\site\core\ums\test.php" crc="1537540731"/>
+		<file name="E:\OSPanel\domains\site\core\ums\logUms.txt" crc="1537381838"/>
+		<file name="E:\OSPanel\domains\site\core\ums\authums.php" crc="1537344624"/>
+		<file name="E:\OSPanel\domains\site\core\js\uncompressed jQuery 3.3.1.js" crc="1537279651"/>
+		<file name="E:\OSPanel\domains\site\core\js\compressed jQuery 3.3.1.js" crc="1537279570"/>
+		<file name="E:\OSPanel\domains\site\core\classes\JUserManagementSystem.class.php" crc="1537485093"/>
+		<file name="E:\OSPanel\domains\site\core\classes\JServer.class.php" crc="1537474608"/>
+		<file name="E:\OSPanel\domains\site\core\classes\JRoute.class.php" crc="1537380538"/>
+		<file name="E:\OSPanel\domains\site\core\classes\JHelper.class.php" crc="1537088104"/>
+		<file name="E:\OSPanel\domains\site\core\classes\JFileMS.class.php" crc="1537550460"/>
+		<file name="E:\OSPanel\domains\site\core\classes\JFileManagementSystem.class.php" crc="1537548194"/>
+		<file name="E:\OSPanel\domains\site\core\classes\JErrorManagementSystem.class.php" crc="1537545002"/>
+		<file name="E:\OSPanel\domains\site\core\classes\JDb.class.php" crc="1537514384"/>
+		<file name="E:\OSPanel\domains\site\core\classes\autoLoadClass.php" crc="1533840574"/>
+		<file name="E:\OSPanel\domains\site\core\controler.php" crc="1537214006"/>
+		<file name="E:\OSPanel\domains\site\core\config.php" crc="1537300451"/>
+		<file name="E:\OSPanel\domains\site\style.css" crc="1537277404"/>
+		<file name="E:\OSPanel\domains\site\index.php" crc="1537484323"/>
+	</filescache>
+</project>
